@@ -13,6 +13,7 @@ Purchases without State Information (UF - Unidade Federativa): Due to a system e
 Final Product Price: The final price of a product cannot exceed the price including shipping.
 
 **Metrics:**
+
 **Top-selling Departments:** By analyzing sales data, we identified the most popular departments among customers. This information is useful for understanding which products are in high demand and for guiding the store's sales strategy.
 
 **Average Price with Shipping by Department:** We calculated the average price with shipping by department to understand price behavior. This metric helps identify the most profitable departments and adjust product pricing accordingly.
